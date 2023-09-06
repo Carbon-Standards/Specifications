@@ -2,6 +2,6 @@
 
 # Specifications
 
-PSock server specifications.
+The PSocket server specifications are inspired by the [TOMPHTTP](https://github.com/tomphttp) specifications.
 
 - [Server](./Server.md)

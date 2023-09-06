@@ -19,6 +19,10 @@ type PSocketMeta = {
    */
   maxBodySize: number;
   /**
+   * The maximum packet size in bytes allowed by the server. If any packet exceeds this limit, the server will respond with an error.
+   */
+  maxPacketSize: number;
+  /**
    * Contact information about the maintainer of the given PSocket server.
    *
    * Can be used to contact maintainers about security vulnerabilities.
