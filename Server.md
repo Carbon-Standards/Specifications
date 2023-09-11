@@ -19,6 +19,10 @@ type PSocketMeta = {
    */
   maxBodySize: number;
   /**
+   * The maximum websocket message size in bytes allowed for remote connections. If any message exceeds this limit, the server will respond with an error.
+   */
+  maxMessageSize: number;
+  /**
    * The maximum packet size in bytes allowed by the server. If any packet exceeds this limit, the server will respond with an error.
    */
   maxPacketSize: number;
