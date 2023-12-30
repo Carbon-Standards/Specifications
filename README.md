@@ -2,6 +2,6 @@
 
 # Specifications
 
-The PSocket server specifications are inspired by the [TOMPHTTP](https://github.com/tomphttp) specifications.
+The Carbon specifications define how proxies, and their servers should behave.
 
-- [Server](./Server.md)
+- [Carbon Server](./Server.md)
