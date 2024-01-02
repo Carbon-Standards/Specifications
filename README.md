@@ -1,7 +1,8 @@
-# 🚧 Note: These specifications are being drafted and may change at any time.
-
 # Specifications
 
-The Carbon specifications define how proxies, and their servers should behave.
+> [!WARNING]  
+> Note: These specifications are still being drafted and may change at any time.
+
+The Carbon specifications define how proxies, and their servers should communicate.
 
 - [Carbon Server](./Server.md)
